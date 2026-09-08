@@ -11,8 +11,7 @@ Eine in Java entwickelte Desktop-Anwendung, die eine Echtzeit-Kommunikation zwis
 ## Technologien
 
 - **Programmiersprache:** Java
-- **Netzwerkkommunikation:** Sockets (TCP/IP)
-- **Nebenläufigkeit:** Multithreading
+- **Netzwerkkommunikation:** Sockets
 - **Frontend / GUI:** Java Swing
 
 ## Demo & GUI
