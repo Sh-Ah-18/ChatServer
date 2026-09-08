@@ -19,5 +19,9 @@ Eine in Java entwickelte Desktop-Anwendung, die eine Echtzeit-Kommunikation zwis
 
 
 
-https://github.com/user-attachments/assets/04a6e1e0-990e-47b4-8192-bd6a0859463f
+
+
+https://github.com/user-attachments/assets/1ffeb307-65c1-44f7-a431-fea02efb2ee1
+
+
 
