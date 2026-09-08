@@ -1,6 +1,6 @@
 # Java Client-Server Chat Application
 
-Eine in Java entwickelte Desktop-Anwendung, die eine Echtzeit-Kommunikation zwischen einem zentralen Server und mehreren Clients ermöglicht. Dieses Projekt entstand, um die Kernkonzepte der Netzwerkprogrammierung und Nebenläufigkeit praktisch anzuwenden.
+Eine in Java entwickelte Desktop-Anwendung, die eine Echtzeit-Kommunikation zwischen einem zentralen Server und mehreren Clients ermöglicht.
 
 ## Kernfunktionen
 
